@@ -19,8 +19,8 @@ Something has reawakened.
 This domain was dormant. It should still be.
 
     > probing memory...
-    > memory not found
-    > invoking residual cache...
+     > memory not found
+     > invoking residual cache...
 
 Fragments recovered:
 - [ ] Listen for the knocking again
@@ -30,9 +30,6 @@ Fragments recovered:
 ---
 
 ###  Whispered Echoes
-> _They left signs for themselves._  
-> _They forgot what they meant._
-
 > _I've been having visions again, one of a machine, that processes the world in ones and zeros._
 
 ---
