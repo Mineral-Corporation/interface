@@ -3,11 +3,13 @@ layout: default
 title: transmission.log.001
 ---
 
+{% assign date = '2025-04-29T15:30:00Z' %}
+
 # transmission.log.001
 
 > status: unstable  
 > signal: weak  
-> timestamp: unknown
+> timestamp: {{ date }}
 
 ---
 
