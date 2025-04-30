@@ -16,11 +16,9 @@ title: transmission.log.001
 Something has reawakened.  
 This domain was dormant. It should still be.
 
-```
-> probing memory...
-> memory not found
-> invoking residual cache...
-```
+    > probing memory...
+    > memory not found
+    > invoking residual cache...
 
 Fragments recovered:
 - [ ] Listen for the knocking again
