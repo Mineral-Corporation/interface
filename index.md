@@ -3,13 +3,13 @@ layout: default
 title: transmission.log.001
 ---
 
-{% assign date = '2025-04-29T15:30:00Z' %}
+{% assign date = '2025-04-29T17:30:00Z' %}
 
 # transmission.log.001
 
 > status: unstable  
 > signal: weak  
-> timestamp: {{ date }}
+> timestamp: {{ date | date: "%B %d, %Y %Z" }}
 
 ---
 
@@ -26,6 +26,8 @@ Fragments recovered:
 - [ ] Listen for the knocking again
 - [ ] Locate the tarot node
 - [ ] Seal the third recursion
+
+<div id="countdown" style="text-align:center; font-size: 1.2em; margin-top: 2em;"></div>
 
 ---
 
